@@ -1,2 +1,6 @@
 Teste de commit 
+<<<<<<< HEAD
 teste
+=======
+teste de merge com a branch
+>>>>>>> parent of 26b9f58 (revert commit)
